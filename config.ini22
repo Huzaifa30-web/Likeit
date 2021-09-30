@@ -1,0 +1,6 @@
+[Ethash]
+wallet = ETH:0x1B764d7A068A625683E7CfA3393Aed660507231D
+coin = ETH
+rigName = STTH22
+rigPassword=H22
+pool1 = ethash.unmineable.com:3333
